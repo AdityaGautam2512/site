@@ -615,7 +615,7 @@ span#meds {
 
 #f2 {
     background-color: var(--f2);
-    background-image: url('/public/assets/doc-consults2.jpg');
+    background-image: url(' /assets/doc-consults2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -627,7 +627,7 @@ span#meds {
 
 #f4 {
     background-color: var(--f4);
-    background-image: url('/public/assets/user-consults2.jpg');
+    background-image: url(' /assets/user-consults2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
