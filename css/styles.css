@@ -1884,6 +1884,7 @@ section.app-features {
 .dpiit-badge {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     gap: 8px;
     background-color: #e8f4ee;
     border: 1px solid #b7dfc9;
@@ -1892,6 +1893,10 @@ section.app-features {
     border-radius: 50px;
     font-weight: 600;
     font-size: 0.85rem;
+}
+
+.dpiit-badge > span{
+    text-align: center;
 }
 
 .dpiit-badge-icon {
