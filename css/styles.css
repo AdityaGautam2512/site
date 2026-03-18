@@ -219,13 +219,13 @@ footer {
     margin: 0 10px;
 }
 h1, h2, h3, h4 {
-    font-weight: 400;
+    font-weight: 500;
 }
 p, li, a, button {
     font-weight: 300;
 }
 strong, b, bold {
-    font-weight: 400;
+    font-weight: 300;
 }
 
 i{
@@ -482,7 +482,7 @@ a.nav-link {
     color: #000;
 }
 a.active {
-    font-weight: 900;
+    font-weight: 700;
     border-bottom: 3px solid #000;
 }
 nav > .wrapper {
@@ -495,7 +495,7 @@ nav > .wrapper {
     color: #fff;
     background-color: #000;
     border-radius: 50px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .partner-up:hover {
     background-color: #fff;
@@ -962,7 +962,7 @@ footer .footer-bottom {
     padding: 20px;
 }
 #home-header > #wrapper > .txt-area > h1 {
-    font-weight: 700;
+    font-weight: 500;
 }
 #home-header-para {
     letter-spacing: 1px;
@@ -1164,7 +1164,7 @@ footer .footer-bottom {
     text-align: center;
 }
 #process-sect > .heading-area > h1 {
-    font-weight: 600;
+    font-weight: 500;
 }
 #process-sect > .heading-area > .process-para {
     padding: 20px;
@@ -1198,7 +1198,7 @@ footer .footer-bottom {
     gap: 50px;
 }
 #process-sect > .cards-container > .process-step > .wrapper > h1 {
-    font-weight: 600;
+    font-weight: 500;
 }
 #process-sect > .cards-container > .process-step:hover {
     background-color: var(--neon-yellow);
